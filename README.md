@@ -9,6 +9,7 @@ This repository showcases a collection of diverse projects completed during my B
 
 ### Project 1: Healthcare Center Website Redesign
 
+<img src="https://github.com/Nostrand/SaludHualqui/raw/master/img/salud-hualqui-preview.png" width="800">
 
 **Description:** This project focuses on redesigning a website for a healthcare center, utilizing a pre-existing HTML template as a starting point. The objective was to create an updated and user-friendly website to organize and present information for a local health center. Through this mini-project, I was tasked with enhancing the website's design and content, while also optimizing its performance to ensure faster loading times and improved user experience.
 
