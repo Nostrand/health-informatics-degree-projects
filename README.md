@@ -11,13 +11,15 @@ In certain instances, select projects may undergo minor enhancements or updates 
 
 ### Project 1: Hualpén Epidemiological Surveillance Analytics
 
+<img src="https://github.com/Nostrand/health-informatics-degree-projects/blob/main/epidemiology-surveillance-analytics/images/hualpen-epi-dashboard.png" width="800">
+
 **Description:** The goal of this project was to process and transform sensitive epidemiological surveillance data, communicable and notifiable, to analyze it using an interactive dashboard.
 
 **Skills & Concepts:** Data Preparation, Data Visualization, Dashboard Design
 
 **Tools:** Python (Pandas, Seaborn), Power BI
 
-**Notebook:** (WIP)
+**Notebook:** [Hualpén Epidemiology Surveillance](https://github.com/Nostrand/health-informatics-degree-projects/blob/main/epidemiology-surveillance-analytics/hualpen_epi_surveillance.ipynb)
 
 ---
 ### Project 2: Healthcare Center Website Redesign
