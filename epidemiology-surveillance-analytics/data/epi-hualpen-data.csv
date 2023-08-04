@@ -1,0 +1,115 @@
+age group;year;month;street;diagnosis
+Adolescente;2014;septiembre;Grecia;Hepatitis A
+Lactante;2014;julio;Las Golondrinas;Coqueluche
+Adulto Joven;2014;noviembre;Berna;Hepatitis A
+Adulto Joven;2014;octubre;Dinamarca;Hepatitis A
+Adulto Joven;2014;septiembre;Modena;Hepatitis A
+Adulto Joven;2014;noviembre;Block;Hepatitis A
+Adulto;2014;octubre;La Conquista;Hepatitis A
+Adulto Joven;2014;diciembre;Sicilia;Hepatitis A
+Adolescente;2014;diciembre;París;Hepatitis A
+Adolescente;2014;noviembre;Las Golondrinas;Hepatitis A
+Adolescente;2015;enero;Gran Bretaña;Hepatitis A
+Adulto Joven;2015;febrero;Gran Bretaña;Hepatitis A
+Adulto;2014;octubre;Servia;Hepatitis A
+Adulto Joven;2015;enero;Patria Vieja;Hepatitis A
+Adolescente;2015;marzo;Nápoles;Hepatitis A
+Adulto Joven;2015;marzo;Palermo;Hepatitis A
+Preescolar;2015;septiembre;Zaragoza;Hepatitis A
+Adulto Joven;2015;mayo;Frankfort;Hepatitis A
+Adulto Joven;2015;mayo;Londres;Hepatitis A
+Adolescente;2015;mayo;Belgrado;Hepatitis A
+Adulto Joven;2015;junio;Bristol;Hepatitis A
+Adulto Joven;2015;septiembre;Yugoslavia;Hepatitis A
+Adulto Joven;2015;octubre;Estambul;Hepatitis A
+Adolescente;2015;octubre;Noruega;Hepatitis A
+Adulto Joven;2015;octubre;Cadiz;Hepatitis A
+Adulto Joven;2015;octubre;Finlandia;Hepatitis A
+Adolescente;2015;octubre;Madrid;Hepatitis A
+Adolescente;2015;octubre;Lebu;Hepatitis A
+Adolescente;2015;octubre;Cadiz;Hepatitis A
+Escolar;2015;octubre;Génova;Hepatitis A
+Adulto Joven;2015;noviembre;Versalles;Hepatitis A
+Adulto Joven;2015;noviembre;Sur;Sífilis
+Adolescente;2015;diciembre;Lan A;Hepatitis A
+Adulto Joven;2015;noviembre;Portugal;Hepatitis A
+Adolescente;2015;noviembre;Génova;Hepatitis A
+Adolescente;2015;noviembre;Reconquista;Hepatitis A
+Adolescente;2015;diciembre;Lanco;Hepatitis A
+Adolescente;2015;diciembre;Hamburgo;Hepatitis A
+Adolescente;2015;diciembre;Nápoles;Hepatitis A
+Adulto Joven;2016;febrero;Bremen;ETA
+Adulto;2016;febrero;Bremen;ETA
+Adulto;2016;febrero;Gibraltar;ETA
+Lactante;2016;febrero;Gibraltar;ETA
+Escolar;2016;febrero;Heilsinki;ETA
+Adulto Joven;2016;febrero;Heilsinki;ETA
+Lactante;2016;febrero;Suiza;ETA
+Preescolar;2016;febrero;Suiza;ETA
+Adulto Joven;2016;febrero;Suiza;ETA
+Preescolar;2016;febrero;Berna;ETA
+Adulto Joven;2016;febrero;Berna;ETA
+Adulto;2016;febrero;Berna;ETA
+Adulto;2016;febrero;Génova;ETA
+Adulto Joven;2016;febrero;Génova;ETA
+Escolar;2016;febrero;Toscania;Influenza 
+Adulto;2011;septiembre;Dover;TBC
+Adulto Joven;2011;octubre;Toscania;TBC
+Adulto Joven;2011;diciembre;Versalles;TBC
+Adulto Joven;2012;enero;Modena;TBC
+Adulto;2012;febrero;Zaragoza;TBC
+Adulto Joven;2012;mayo;Portugal;TBC
+Adulto Joven;2012;septiembre;Alemania;TBC
+Adulto Joven;2012;octubre;Dinamarca;TBC
+Adulto;2013;enero;Helsinki;TBC
+Adolescente;2013;junio;Noruega;TBC
+Adulto;2013;julio;Génova;TBC
+Adulto;2013;octubre;Sicilia;TBC
+Adulto;2015;mayo;Dublin;TBC
+Adulto;2014;junio;Venecia;TBC
+Adulto Joven;2014;agosto;Gibraltar;TBC
+Adulto;2014;diciembre;Venecia;TBC
+Adulto Joven;2015;abril;Noruega;TBC
+Adulto;2015;junio;Yugoslavia;TBC
+Adulto Mayor;2015;septiembre;Noruega;TBC
+Adulto;2015;septiembre;Atenas;TBC
+Adulto Mayor;2016;enero;Atenas;TBC
+Adulto Joven;2016;enero;Lisboa;Hepatitis A
+Adulto Joven;2016;enero;La Coruña;Hepatitis A
+Adulto Joven;2016;enero;Bulgaria;Hepatitis A
+Adulto Joven;2016;febrero;Noruega;Hepatitis A
+Adulto Joven;2016;febrero;Bélgica;Hepatitis A
+Escolar;2016;febrero;Zaragoza;Hepatitis A
+Escolar;2016;enero;Atenas;Parotiditis
+Escolar;2016;febrero;Belgrado;Parotiditis
+Escolar;2016;enero;Dresden;Parotiditis
+Adulto Joven;2016;abril;Dublin;Parotiditis
+Escolar;2016;abril;Suiza;ETA
+Preescolar;2016;abril;Suiza;ETA
+Adulto Joven;2016;abril;Las Golondrinas;Influenza 
+Adulto;2016;abril;Dover;Influenza 
+Adulto;2016;abril;Venecia;Influenza 
+Adulto;2016;abril;Navarra;Influenza 
+Adulto Joven;2016;abril;Sajonia;Influenza 
+Adolescente;2016;abril;Mafil;Parotiditis
+Adulto;2016;abril;La Pera;Parotiditis
+Escolar;2016;abril;Atenas;Hepatitis A
+Adulto Joven;2016;abril;Noruega;ETA
+Preescolar;2016;abril;Noruega;ETA
+Adulto Joven;2016;abril;Madrid;ETA
+Adolescente;2016;abril;Madrid;ETA
+Preescolar;2016;abril;Nápoles;Influenza 
+Adulto Joven;2016;abril;Frankfort;Influenza 
+Adulto;2016;abril;Las Golondrinas;Influenza 
+Escolar;2016;abril;Helsinki;ETA
+Adulto Joven;2016;abril;Helsinki;ETA
+Escolar;2016;abril;Suecia;ETA
+Preescolar;2016;abril;Suecia;ETA
+Adulto;2016;abril;Atenas;ETA
+Escolar;2016;abril;Atenas;ETA
+Adulto Joven;2016;abril;Las  Palmas;ETA
+Preescolar;2016;abril;Las Palmas;ETA
+Adulto Joven;2016;abril;Dublin;Parotiditis
+Adolescente;2016;marzo;Viena;Hepatitis A
+Adulto Joven;2016;febrero;Portugal;Hepatitis B
+Adulto Joven;2016;marzo;Alemania;Hepatitis A

@@ -1,0 +1,115 @@
+age group,year,month,street,diagnosis
+Adolescent (13 - 19),2014,September,Grecia,Hepatitis A
+Infant (<= 1),2014,July,Las Golondrinas,Pertussis
+Young Adult (20 - 40),2014,November,Berna,Hepatitis A
+Young Adult (20 - 40),2014,October,Dinamarca,Hepatitis A
+Young Adult (20 - 40),2014,September,Modena,Hepatitis A
+Young Adult (20 - 40),2014,November,Block,Hepatitis A
+Adult (41 - 65),2014,October,La Conquista,Hepatitis A
+Young Adult (20 - 40),2014,December,Sicilia,Hepatitis A
+Adolescent (13 - 19),2014,December,París,Hepatitis A
+Adolescent (13 - 19),2014,November,Las Golondrinas,Hepatitis A
+Adolescent (13 - 19),2015,January,Gran Bretaña,Hepatitis A
+Young Adult (20 - 40),2015,February,Gran Bretaña,Hepatitis A
+Adult (41 - 65),2014,October,Servia,Hepatitis A
+Young Adult (20 - 40),2015,January,Patria Vieja,Hepatitis A
+Adolescent (13 - 19),2015,March,Nápoles,Hepatitis A
+Young Adult (20 - 40),2015,March,Palermo,Hepatitis A
+Preschool (1 - 5),2015,September,Zaragoza,Hepatitis A
+Young Adult (20 - 40),2015,May,Frankfort,Hepatitis A
+Young Adult (20 - 40),2015,May,Londres,Hepatitis A
+Adolescent (13 - 19),2015,May,Belgrado,Hepatitis A
+Young Adult (20 - 40),2015,June,Bristol,Hepatitis A
+Young Adult (20 - 40),2015,September,Yugoslavia,Hepatitis A
+Young Adult (20 - 40),2015,October,Estambul,Hepatitis A
+Adolescent (13 - 19),2015,October,Noruega,Hepatitis A
+Young Adult (20 - 40),2015,October,Cadiz,Hepatitis A
+Young Adult (20 - 40),2015,October,Finlandia,Hepatitis A
+Adolescent (13 - 19),2015,October,Madrid,Hepatitis A
+Adolescent (13 - 19),2015,October,Lebu,Hepatitis A
+Adolescent (13 - 19),2015,October,Cadiz,Hepatitis A
+School Age (6 - 12),2015,October,Génova,Hepatitis A
+Young Adult (20 - 40),2015,November,Versalles,Hepatitis A
+Young Adult (20 - 40),2015,November,Sur,Syphilis
+Adolescent (13 - 19),2015,December,Lan A,Hepatitis A
+Young Adult (20 - 40),2015,November,Portugal,Hepatitis A
+Adolescent (13 - 19),2015,November,Génova,Hepatitis A
+Adolescent (13 - 19),2015,November,Reconquista,Hepatitis A
+Adolescent (13 - 19),2015,December,Lanco,Hepatitis A
+Adolescent (13 - 19),2015,December,Hamburgo,Hepatitis A
+Adolescent (13 - 19),2015,December,Nápoles,Hepatitis A
+Young Adult (20 - 40),2016,February,Bremen,Foodborne disease
+Adult (41 - 65),2016,February,Bremen,Foodborne disease
+Adult (41 - 65),2016,February,Gibraltar,Foodborne disease
+Infant (<= 1),2016,February,Gibraltar,Foodborne disease
+School Age (6 - 12),2016,February,Heilsinki,Foodborne disease
+Young Adult (20 - 40),2016,February,Heilsinki,Foodborne disease
+Infant (<= 1),2016,February,Suiza,Foodborne disease
+Preschool (1 - 5),2016,February,Suiza,Foodborne disease
+Young Adult (20 - 40),2016,February,Suiza,Foodborne disease
+Preschool (1 - 5),2016,February,Berna,Foodborne disease
+Young Adult (20 - 40),2016,February,Berna,Foodborne disease
+Adult (41 - 65),2016,February,Berna,Foodborne disease
+Adult (41 - 65),2016,February,Génova,Foodborne disease
+Young Adult (20 - 40),2016,February,Génova,Foodborne disease
+School Age (6 - 12),2016,February,Toscania,Influenza 
+Adult (41 - 65),2011,September,Dover,Tuberculosis
+Young Adult (20 - 40),2011,October,Toscania,Tuberculosis
+Young Adult (20 - 40),2011,December,Versalles,Tuberculosis
+Young Adult (20 - 40),2012,January,Modena,Tuberculosis
+Adult (41 - 65),2012,February,Zaragoza,Tuberculosis
+Young Adult (20 - 40),2012,May,Portugal,Tuberculosis
+Young Adult (20 - 40),2012,September,Alemania,Tuberculosis
+Young Adult (20 - 40),2012,October,Dinamarca,Tuberculosis
+Adult (41 - 65),2013,January,Helsinki,Tuberculosis
+Adolescent (13 - 19),2013,June,Noruega,Tuberculosis
+Adult (41 - 65),2013,July,Génova,Tuberculosis
+Adult (41 - 65),2013,October,Sicilia,Tuberculosis
+Adult (41 - 65),2015,May,Dublin,Tuberculosis
+Adult (41 - 65),2014,June,Venecia,Tuberculosis
+Young Adult (20 - 40),2014,August,Gibraltar,Tuberculosis
+Adult (41 - 65),2014,December,Venecia,Tuberculosis
+Young Adult (20 - 40),2015,April,Noruega,Tuberculosis
+Adult (41 - 65),2015,June,Yugoslavia,Tuberculosis
+Elderly (> 65),2015,September,Noruega,Tuberculosis
+Adult (41 - 65),2015,September,Atenas,Tuberculosis
+Elderly (> 65),2016,January,Atenas,Tuberculosis
+Young Adult (20 - 40),2016,January,Lisboa,Hepatitis A
+Young Adult (20 - 40),2016,January,La Coruña,Hepatitis A
+Young Adult (20 - 40),2016,January,Bulgaria,Hepatitis A
+Young Adult (20 - 40),2016,February,Noruega,Hepatitis A
+Young Adult (20 - 40),2016,February,Bélgica,Hepatitis A
+School Age (6 - 12),2016,February,Zaragoza,Hepatitis A
+School Age (6 - 12),2016,January,Atenas,Mumps
+School Age (6 - 12),2016,February,Belgrado,Mumps
+School Age (6 - 12),2016,January,Dresden,Mumps
+Young Adult (20 - 40),2016,April,Dublin,Mumps
+School Age (6 - 12),2016,April,Suiza,Foodborne disease
+Preschool (1 - 5),2016,April,Suiza,Foodborne disease
+Young Adult (20 - 40),2016,April,Las Golondrinas,Influenza 
+Adult (41 - 65),2016,April,Dover,Influenza 
+Adult (41 - 65),2016,April,Venecia,Influenza 
+Adult (41 - 65),2016,April,Navarra,Influenza 
+Young Adult (20 - 40),2016,April,Sajonia,Influenza 
+Adolescent (13 - 19),2016,April,Mafil,Mumps
+Adult (41 - 65),2016,April,La Pera,Mumps
+School Age (6 - 12),2016,April,Atenas,Hepatitis A
+Young Adult (20 - 40),2016,April,Noruega,Foodborne disease
+Preschool (1 - 5),2016,April,Noruega,Foodborne disease
+Young Adult (20 - 40),2016,April,Madrid,Foodborne disease
+Adolescent (13 - 19),2016,April,Madrid,Foodborne disease
+Preschool (1 - 5),2016,April,Nápoles,Influenza 
+Young Adult (20 - 40),2016,April,Frankfort,Influenza 
+Adult (41 - 65),2016,April,Las Golondrinas,Influenza 
+School Age (6 - 12),2016,April,Helsinki,Foodborne disease
+Young Adult (20 - 40),2016,April,Helsinki,Foodborne disease
+School Age (6 - 12),2016,April,Suecia,Foodborne disease
+Preschool (1 - 5),2016,April,Suecia,Foodborne disease
+Adult (41 - 65),2016,April,Atenas,Foodborne disease
+School Age (6 - 12),2016,April,Atenas,Foodborne disease
+Young Adult (20 - 40),2016,April,Las  Palmas,Foodborne disease
+Preschool (1 - 5),2016,April,Las Palmas,Foodborne disease
+Young Adult (20 - 40),2016,April,Dublin,Mumps
+Adolescent (13 - 19),2016,March,Viena,Hepatitis A
+Young Adult (20 - 40),2016,February,Portugal,Hepatitis B
+Young Adult (20 - 40),2016,March,Alemania,Hepatitis A
