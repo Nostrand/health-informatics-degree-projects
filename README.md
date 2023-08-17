@@ -34,9 +34,12 @@ In certain instances, select projects may undergo minor enhancements or updates 
 
 **Repository:** [SaludHualqui](https://github.com/Nostrand/SaludHualqui)
 
-### Project 3: Placeholder 2
+### Project 3: Breast Cancer Awareness
 
+<img src="https://github.com/Nostrand/health-informatics-degree-projects/blob/main/breast-cancer-awareness/breast-cancer-awareness.png" width="800">
 
-**Description:** 
+**Description:** A project from an Applied Multimedia class, featuring an informative graphic for Breast Cancer Awareness Month. This artwork showcases practical skills learned in the class, combining digital techniques to provide information about available healthcare services for women in the country. The project exemplifies the fusion of technology and art for meaningful communication.
 
-**Report:** 
+**Skill & Concepts:** Image Editing, Visual Communication, Basic Graphic Design
+
+**Tools:** Adobe Photoshop
