@@ -3,10 +3,9 @@
 
 ## Description
 
-This repository showcases a collection of diverse projects completed during my Biomedical Informatics Technologist degree. These projects stem from various healthcare-related topics, web programming, data analysis, and IT-related tasks. Utilizing a range of tools and techniques, including Python, R, SQL, spreadsheets, HTML/CSS, and Javascript, each project reflects my passion for leveraging technology to address different challenges and derive meaningful insights from data.
+This repository showcases a collection of diverse projects completed during my Biomedical Informatics Technologist degree. These projects stem from various healthcare-related topics, web programming, data analysis, and IT-related tasks.
 
-In certain instances, select projects may undergo minor enhancements or updates to incorporate modernized tools and techniques. These improvements aim to elevate the overall presentation and functionality, ensuring a more refined and up-to-date representation of the project's insights and analysis.
-
+In certain instances, select projects may have undergo minor enhancements or updates to incorporate modernized tools and techniques.
 ## Included Projects
 
 ### Project 1: Hualpén Epidemiological Surveillance Analytics
